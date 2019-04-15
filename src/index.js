@@ -6,10 +6,10 @@ import Footer from "./Footer"
 import "./css/tailwind.css"
 
 const App = () => {
-    return <div className="min-h-screen">
-                <div className="flex flex-col w-full fixed pin-1 pin-y">
-                    <Header />
-                    <div className="px-4 pt-4 flex-1 overflow-y-scrol">
+    return <div className="page-wrapper">
+                <div className="page-content">
+                        <Header />
+                    <div className="content-wrapper">
                         <Hello />
                     </div>
                 <Footer />
