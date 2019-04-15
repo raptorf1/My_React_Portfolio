@@ -1,0 +1,19 @@
+{
+  "name": "myportfoliowithreact",
+  "version": "1.0.0",
+  "description": "My Portfolio With React JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raptorf1/My_React_Portfolio.git"
+  },
+  "author": "George Tomaras (raptorf1)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/raptorf1/My_React_Portfolio/issues"
+  },
+  "homepage": "https://github.com/raptorf1/My_React_Portfolio#readme"
+}
