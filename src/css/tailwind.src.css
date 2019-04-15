@@ -1,6 +1,7 @@
 @tailwind preflight;
 @tailwind components;
 @tailwind utilities;
+@tailwind screens;
 
 /** Page **/ 
 
@@ -14,6 +15,14 @@
 /** Header **/
 .header {
     @apply flex items-center justify-between flex-wrap bg-blue-darkest p-6;
+}
+
+.header-links {
+    @apply text-white no-underline;
+}
+
+.header-ul {
+    @apply list-reset flex
 }
 
 .header-title {
@@ -39,5 +48,3 @@
 .content-text {
     @apply text-grey-dark;
 }
-
-@tailwind screens;
