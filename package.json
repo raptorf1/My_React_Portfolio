@@ -22,7 +22,8 @@
   "homepage": "https://github.com/raptorf1/My_React_Portfolio#readme",
   "dependencies": {
     "react": "^16.8.6",
-    "react-dom": "^16.8.6"
+    "react-dom": "^16.8.6",
+    "react-router-dom": "^5.0.0"
   },
   "devDependencies": {
     "@babel/cli": "^7.4.3",
