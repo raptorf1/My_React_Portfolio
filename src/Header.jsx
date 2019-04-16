@@ -9,8 +9,9 @@ const Header = () => {
             </h1>
 
             <ul className="header-ul">
-                <li className="mr-6"><a href="https://tinyurl.com/ya6vlvw8" target="_blank" className="header-links hover:text-red">My LinkedIn Profile</a></li>
-                <li className="mr-6"><NavLink className="header-links hover:text-grey" activeStyle={{fontWeight: "bold"}} to="/projects">My Projects</NavLink></li>
+                <li className="mr-6"><a href="https://tinyurl.com/ya6vlvw8" target="_blank" className="header-links hover:text-red">LinkedIn Profile</a></li>
+                <li className="mr-6"><a href="https://1drv.ms/b/s!AhEE9IqHxlSFjiDeUwGjXWxm8nSj" target="_blank" className="header-links hover:text-red">CV</a></li>
+                <li className="mr-6"><NavLink className="header-links hover:text-grey" activeStyle={{fontWeight: "bold"}} to="/projects">Projects</NavLink></li>
                 <li className="mr-6"><NavLink className="header-links hover:text-grey" activeStyle={{fontWeight: "bold"}} to="/contact">Contact Me</NavLink></li>
             </ul>
         </nav>
