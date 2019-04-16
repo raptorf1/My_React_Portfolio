@@ -5,7 +5,7 @@
 
 # Deployment
 
-This site was deployed using [Netlify](https://www.netlify.com/). You can visit it [here]().
+This site was deployed using [Netlify](https://www.netlify.com/). You can visit it [here](https://gtomaras-portfolio.netlify.com/).
 
 # Built With
 
