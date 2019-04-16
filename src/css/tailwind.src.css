@@ -14,7 +14,7 @@
 
 /** Header **/
 .header {
-    @apply flex items-center justify-between flex-wrap bg-blue-darkest p-6;
+    @apply flex items-center justify-between flex-wrap bg-teal-dark p-6;
 }
 
 .header-links {
@@ -32,7 +32,7 @@
 /** Footer **/
 
 .footer-wrapper {
-    @apply border-t px-8 py-4;
+    @apply border-t px-8 py-4 bg-teal-dark;
 }
 
 .footer-content {
