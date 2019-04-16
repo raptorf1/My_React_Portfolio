@@ -46,5 +46,5 @@
 }
 
 .content-text {
-    @apply text-grey-dark;
+    @apply text-green-darkest;
 }
