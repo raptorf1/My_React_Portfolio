@@ -1,22 +1,33 @@
 [
     {
         "id": 1,
-        "name": "My First Website"
+        "name": "My First Website",
+        "image": "./src/data/firstWebsite.gif",
+        "description": "My first attempt to create a simple static website."
     },
     {
         "id": 2,
-        "name": "My Address Book"
+        "name": "My Address Book",
+        "image": "./src/data/addressBook.gif",
+        "description": "After a week learning JavaScript, this was the result."
     },
     {
         "id": 3,
-        "name": "FizzBuzz"
+        "name": "FizzBuzz",
+        "image": "./src/data/fizzBuzz.gif",
+        "description": "A simple weekend project. The famous FizzBuzz game!"
+
     },
     {
         "id": 4,
-        "name": "Library Challenge"
+        "name": "Library Challenge",
+        "image": "./src/data/library.gif",
+        "description": "Written with Ruby. Run via IRB. Library management where the database is stored in a YAML file."
     },
     {
         "id": 5,
-        "name": "ATM Challenge"
+        "name": "ATM Challenge",
+        "image": "./src/data/atm.gif",
+        "description": "Written with Ruby. Run via IRB. Deposit and withdraw money at an ATM."
     }
 ]
