@@ -4,21 +4,24 @@
         "name": "My First Website",
         "image": "./src/data/firstWebsite.gif",
         "description": "My first attempt to create a simple static website.",
-        "GitHub": "https://github.com/raptorf1/raptorf1.github.io"
+        "GitHub": "https://github.com/raptorf1/raptorf1.github.io",
+        "URL": "https://raptorf1.github.io/"
     },
     {
         "id": 2,
         "name": "My Address Book",
         "image": "./src/data/addressBook.gif",
         "description": "After a week learning JavaScript, this was the result. Pair programed with a fellow student.",
-        "GitHub": "https://github.com/raptorf1/address_book_challenge"
+        "GitHub": "https://github.com/raptorf1/address_book_challenge",
+        "URL": "https://raptorf1.github.io/address_book_challenge/"
     },
     {
         "id": 3,
         "name": "FizzBuzz",
         "image": "./src/data/fizzBuzz.gif",
         "description": "A simple weekend project. The famous FizzBuzz game!",
-        "GitHub": "https://github.com/raptorf1/fizzbuzz_js"
+        "GitHub": "https://github.com/raptorf1/fizzbuzz_js",
+        "URL": "https://raptorf1.github.io/fizzbuzz_js/"
 
     },
     {
