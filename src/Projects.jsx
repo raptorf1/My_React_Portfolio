@@ -43,6 +43,7 @@ class Projects extends Component {
                 <div className="w-3/4">
                     <h1>My Projects</h1>
                     <br></br>
+                    <br></br>
                     <p>These are the projects I have been working on, during my 3 months at <a href="https://craftacademy.se/english/" target="_blank">Craft Academy</a>.</p>
                     <br></br>
                     <p>The code base of all the projects shown below, can be found in my GitHub account with a click on the <i>GitHub Details</i> button.</p>
@@ -55,7 +56,7 @@ class Projects extends Component {
             <div className="flex flex-wrap -mx-1 lg:-mx-4">
                 {projectsList}
             </div>
-        </div>
+            </div>
         )
     }
 };
