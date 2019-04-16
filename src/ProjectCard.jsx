@@ -5,7 +5,7 @@ const ProjectCard = (props) => {
     return (
 
         <div key={project.id} className="overflow-hidden border">
-            <img src={project.image} className="block h-auto w-full" style={{ height: '150px', objectFit: 'cover' }} />
+            <img src={project.image} className="block h-auto w-full" style={{ height: '350px', objectFit: 'cover' }} />
 
 
             <div className="px-6 py-4" style={{ minHeight: '150px' }} >
@@ -19,7 +19,6 @@ const ProjectCard = (props) => {
                 <a href={project.GitHub} target="_blank"><button className="bg-blue-darkest hover:bg-blue-dark text-white text-xs py-1 px-2 rounded-full">GitHub Details</button></a>
                 <a href={project.URL} target="_blank"><button className="bg-blue-darkest hover:bg-blue-dark text-white text-xs py-1 px-2 rounded-full">Deployed Website</button></a>
             </div>
-
         </div>
     )
 }
