@@ -3,31 +3,36 @@
         "id": 1,
         "name": "My First Website",
         "image": "./src/data/firstWebsite.gif",
-        "description": "My first attempt to create a simple static website."
+        "description": "My first attempt to create a simple static website.",
+        "GitHub": "https://github.com/raptorf1/raptorf1.github.io"
     },
     {
         "id": 2,
         "name": "My Address Book",
         "image": "./src/data/addressBook.gif",
-        "description": "After a week learning JavaScript, this was the result."
+        "description": "After a week learning JavaScript, this was the result. Pair programed with a fellow student.",
+        "GitHub": "https://github.com/raptorf1/address_book_challenge"
     },
     {
         "id": 3,
         "name": "FizzBuzz",
         "image": "./src/data/fizzBuzz.gif",
-        "description": "A simple weekend project. The famous FizzBuzz game!"
+        "description": "A simple weekend project. The famous FizzBuzz game!",
+        "GitHub": "https://github.com/raptorf1/fizzbuzz_js"
 
     },
     {
         "id": 4,
         "name": "Library Challenge",
         "image": "./src/data/library.gif",
-        "description": "Written with Ruby. Run via IRB. Library management where the database is stored in a YAML file."
+        "description": "Written with Ruby. Run via IRB. Library management where the database is stored in a YAML file. Pair programed with a fellow student.",
+        "GitHub": "https://github.com/zanenkn/library-challenge"
     },
     {
         "id": 5,
         "name": "ATM Challenge",
         "image": "./src/data/atm.gif",
-        "description": "Written with Ruby. Run via IRB. Deposit and withdraw money at an ATM."
+        "description": "Written with Ruby. Run via IRB. Deposit and withdraw money at an ATM. Pair programed with a fellow student.",
+        "GitHub": "https://github.com/raptorf1/atm_challenge_Zane_George"
     }
 ]
