@@ -39,10 +39,18 @@ class Projects extends Component {
                 <div className="flex mb-4">
                     <div className="w-1/4">
                         <UndrawBitcoinP2P />
-                </div>
+                    </div>
                 <div className="w-3/4">
                     <h1>My Projects</h1>
-                    <p>This is a selection of some of my projects I have been working on.</p>
+                    <br></br>
+                    <br></br>
+                    <p>These are the projects I have been working on, during my 3 months at <a href="https://craftacademy.se/english/" target="_blank">Craft Academy</a>.</p>
+                    <br></br>
+                    <br></br>
+                    <p>The code base of all the projects shown below, can be found in my GitHub account with a click on the <i>GitHub Details</i> button.</p>
+                    <br></br>
+                    <br></br>
+                    <p>Projects that are deployed online, can be accessed by clicking the <i>Deployed Website</i> button. For projects not deployed, the button leads to the GitHub repository of the project.</p>
                 </div>
             </div>
             <div className="flex flex-wrap -mx-1 lg:-mx-4">

@@ -9,7 +9,7 @@ const Header = () => {
             </h1>
 
             <ul className="header-ul">
-                <li className="mr-6"><NavLink className="header-links hover:text-grey" activeStyle={{fontWeight: "bold"}} to="/about">About Me</NavLink></li>
+                <li className="mr-6"><a href="https://www.sidereel.com/" target="_blank" className="header-links hover:text-red">My LinkedIn Profile</a></li>
                 <li className="mr-6"><NavLink className="header-links hover:text-grey" activeStyle={{fontWeight: "bold"}} to="/projects">My Projects</NavLink></li>
             </ul>
         </nav>
