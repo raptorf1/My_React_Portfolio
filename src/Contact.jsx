@@ -12,7 +12,7 @@ const Contact = () => {
                 </div>
                 <div class="mb-6">
                     <label class="block text-grey-darker text-sm font-bold mb-2">Message</label>
-                    <p><textarea class="shadow appearance-none border border-red rounded w-full py-2 px-3 text-grey-darker mb-3 leading-tight focus:outline-none focus:shadow-outline" name="message" /></p>
+                    <p><textarea class="shadow appearance-none border rounded w-full py-2 px-3 text-grey-darker mb-3 leading-tight focus:outline-none focus:shadow-outline" name="message" /></p>
                 </div>
                 <div class="flex items-center justify-between">
                     <p><button class="bg-blue hover:bg-blue-dark text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline" type="submit">Send</button></p>
