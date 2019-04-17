@@ -5,15 +5,17 @@
         "image": "./src/data/firstWebsite.gif",
         "description": "My first attempt to create a simple static website. Check your BMI and learn how your idle computer power can help scientific research.",
         "GitHub": "https://github.com/raptorf1/raptorf1.github.io",
-        "URL": "https://raptorf1.github.io/"
+        "URL": "https://raptorf1.github.io/",
+        "languages": "HTML, JavaScript, CSS, Ruby"
     },
     {
         "id": 2,
         "name": "My Address Book",
         "image": "./src/data/addressBook.jpeg",
-        "description": "After a weeks learning of JavaScript, this was the result. Pair programed with my fellow student Stefan.",
+        "description": "After a week's learning of JavaScript, this was the result. Pair programed with my fellow student Stefan.",
         "GitHub": "https://github.com/raptorf1/address_book_challenge",
-        "URL": "https://raptorf1.github.io/address_book_challenge/"
+        "URL": "https://raptorf1.github.io/address_book_challenge/",
+        "languages": "HTML, JavaScript, CSS, Gherkin"
     },
     {
         "id": 3,
@@ -21,23 +23,26 @@
         "image": "./src/data/fizzBuzz.gif",
         "description": "A simple weekend project. The famous FizzBuzz game!",
         "GitHub": "https://github.com/raptorf1/fizzbuzz_js",
-        "URL": "https://raptorf1.github.io/fizzbuzz_js/"
+        "URL": "https://raptorf1.github.io/fizzbuzz_js/",
+        "languages": "HTML, JavaScript"
 
     },
     {
         "id": 4,
         "name": "Library Challenge",
         "image": "./src/data/library.gif",
-        "description": "Written with Ruby. Run via IRB. Library management where the database is stored in a YAML file. Pair programed with my fellow student Zane.",
+        "description": "Library management where the database is stored in a YAML file. Pair programed with my fellow student Zane. Run via IRB.",
         "GitHub": "https://github.com/zanenkn/library-challenge",
-        "URL": "https://github.com/zanenkn/library-challenge"
+        "URL": "https://github.com/zanenkn/library-challenge",
+        "languages": "Ruby"
     },
     {
         "id": 5,
         "name": "ATM Challenge",
         "image": "./src/data/atm.gif",
-        "description": "Written with Ruby. Run via IRB. Deposit and withdraw money at an ATM. Pair programed with my fellow student Zane.",
+        "description": "Deposit and withdraw money at an ATM. Pair programed with my fellow student Zane. Run via IRB",
         "GitHub": "https://github.com/raptorf1/atm_challenge_Zane_George",
-        "URL": "https://github.com/raptorf1/atm_challenge_Zane_George"
+        "URL": "https://github.com/raptorf1/atm_challenge_Zane_George",
+        "languages": "Ruby"
     }
 ]

@@ -10,9 +10,8 @@ const ProjectCard = (props) => {
 
             <div className="px-6 py-4" style={{ minHeight: '150px' }} >
                 <div className="font-bold text-xl mb-2">{project.name}</div>
-                <p className="text-grey-darker text-base">
-                    {project.description}
-                </p>
+                <h6 className="text-right text-red-dark italic">Languages used {project.languages}</h6>
+                <p className="text-grey-darker text-base">{project.description}</p>
             </div>
 
             <div className="flex items-center justify-between leading-none p-2 md:p-4">
