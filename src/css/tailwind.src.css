@@ -48,3 +48,7 @@
 .content-text {
     @apply text-green-darkest;
 }
+
+.content-lists {
+    @apply text-green-darkest leading-loose tracking-wide;
+}

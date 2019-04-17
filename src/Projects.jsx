@@ -41,7 +41,7 @@ class Projects extends Component {
                         <UndrawBitcoinP2P />
                     </div>
                 <div className="w-3/4">
-                    <h1>My Projects</h1>
+                    <h1 className="text-center">My Projects</h1>
                     <br></br>
                     <br></br>
                     <p>These are the projects I have been working on, during my 3 months at <a href="https://craftacademy.se/english/" target="_blank">Craft Academy</a>.</p>
