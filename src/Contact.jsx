@@ -3,7 +3,8 @@ import React from "react"
 const Contact = () => {
     return (
         <div class="w-full max-w-xs">
-            <form name="contact" method="POST" netlify-honeypot="bot-field" data-netlify="true" class="bg-white shadow-md rounded px-8 pt-6 pb-8 mb-4">
+            <form name="contact" method="POST" class="bg-white shadow-md rounded px-8 pt-6 pb-8 mb-4">
+            <input type="hidden" name="form-name" value="contact" />
                 <div class="mb-4">
                     <p class="hidden"><label>Don’t fill this out if you're human: <input name="bot-field" /></label></p>
                     <p><label class="block text-grey-darker text-sm font-bold mb-2">E-Mail</label>
