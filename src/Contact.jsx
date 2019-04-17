@@ -2,6 +2,16 @@ import React from "react"
 
 const Contact = () => {
     return (
+        <div className="content-wrapper">
+
+        <div className="w-1/4">
+            <img src="./src/data/contactme.png" height="250" width="250" alt="Contact Me Logo"></img>
+        </div>
+       
+        <br></br>
+        <br></br>
+                
+        
         <div class="w-full max-w-xs">
             <form name="contact" method="POST" class="bg-white shadow-md rounded px-8 pt-6 pb-8 mb-4">
             <input type="hidden" name="form-name" value="contact" />
@@ -18,6 +28,8 @@ const Contact = () => {
                     <p><button class="bg-blue hover:bg-blue-dark text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline" type="submit">Send</button></p>
                     </div>
             </form>        
+        </div>
+
         </div>
             )
 }
