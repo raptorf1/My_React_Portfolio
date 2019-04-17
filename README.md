@@ -25,3 +25,4 @@ This project is licensed under the [MIT](https://opensource.org/licenses/MIT) Li
 # Acknowledgments
 
 * Kudos to [PurpleBooth](https://github.com/PurpleBooth) for the README template.
+* Thank you [Thomas](https://github.com/tochman) for helping me with "Top Of Page" button.

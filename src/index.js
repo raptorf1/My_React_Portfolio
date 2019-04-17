@@ -13,7 +13,7 @@ const App = () => {
     return <div className="page-wrapper">
                 <div className="page-content">
                         <Header />
-                    <div className="content-wrapper">
+                    <div id="main-content" className="content-wrapper">
                         <Switch>
                             <Route exact path="/" component={Hello}></Route>
                             <Route exact path="/projects" component={Projects}></Route>
