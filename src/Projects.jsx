@@ -48,9 +48,9 @@ class Projects extends Component {
                     <br></br>
                     <p>The code base of all the projects shown below, can be found in my GitHub account with a click on the <i><b>GitHub Details</b></i> button.</p>
                     <br></br>
-                    <p>Projects that are deployed online, can be accessed by clicking the <i><b>Deployed Website</b></i> button. For projects not deployed, the button leads to the GitHub repository of the project.</p>
+                    <p>Projects that are deployed online, can be accessed by clicking the <i><b>Deployed Website</b></i> button.</p>
                     <br></br>
-                    <p>The repository for this website can be found <a href="https://github.com/raptorf1/My_React_Portfolio" target="_blank">here</a>.</p>
+                    <p>The repository for this portfolio website can be found <a href="https://github.com/raptorf1/My_React_Portfolio" target="_blank">here</a>.</p>
                 </div>
             </div>
             <div className="flex flex-wrap -mx-1 lg:-mx-4">

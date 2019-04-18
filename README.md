@@ -26,3 +26,4 @@ This project is licensed under the [MIT](https://opensource.org/licenses/MIT) Li
 
 * Kudos to [PurpleBooth](https://github.com/PurpleBooth) for the README template.
 * Thank you [Thomas](https://github.com/tochman) for helping me with "Top Of Page" button.
+* Thank you [Felix](https://github.com/leiter007) for showing me how to hide the buttons on projects not deployed.

@@ -33,7 +33,7 @@
         "image": "./src/data/library.gif",
         "description": "Library management where the database is stored in a YAML file. Pair programed with my fellow student Zane. Run via IRB.",
         "GitHub": "https://github.com/zanenkn/library-challenge",
-        "URL": "https://github.com/zanenkn/library-challenge",
+        "URL": "",
         "languages": "Ruby"
     },
     {
@@ -42,7 +42,7 @@
         "image": "./src/data/atm.gif",
         "description": "Deposit and withdraw money at an ATM. Pair programed with my fellow student Zane. Run via IRB",
         "GitHub": "https://github.com/raptorf1/atm_challenge_Zane_George",
-        "URL": "https://github.com/raptorf1/atm_challenge_Zane_George",
+        "URL": "",
         "languages": "Ruby"
     }
 ]
