@@ -36,7 +36,7 @@
 }
 
 .footer-content {
-    @apply flex justify-around text-grey items-baseline;
+    @apply flex justify-around text-grey items-center;
 }
 
 /** Content section **/

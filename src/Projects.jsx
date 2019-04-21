@@ -50,7 +50,7 @@ class Projects extends Component {
                     <br></br>
                     <p>Projects that are deployed online, can be accessed by clicking the <i><b>Deployed Website</b></i> button.</p>
                     <br></br>
-                    <p>The repository for this portfolio website can be found <a href="https://github.com/raptorf1/My_React_Portfolio" target="_blank">here</a>.</p>
+                    <p>The repository for this portfolio website is <a href="https://github.com/raptorf1/My_React_Portfolio" target="_blank">here</a>.</p>
                 </div>
             </div>
             <div className="flex flex-wrap -mx-1 lg:-mx-4">
