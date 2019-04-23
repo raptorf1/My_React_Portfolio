@@ -19,7 +19,7 @@
     },
     {
         "id": 3,
-        "name": "FizzBuzz",
+        "name": "FizzBuzz Game",
         "image": "./src/data/fizzBuzz.gif",
         "description": "A simple weekend project. The famous FizzBuzz game!",
         "GitHub": "https://github.com/raptorf1/fizzbuzz_js",
@@ -44,5 +44,14 @@
         "GitHub": "https://github.com/raptorf1/atm_challenge_Zane_George",
         "URL": "",
         "languages": "Ruby"
+    },
+    {
+        "id": 6,
+        "name": "Paper Rock Scissors Game",
+        "image": "./src/data/paperRockScissors.gif",
+        "description": "Another famous game. Simple & lightweight design. Provides score tracking and stats.",
+        "GitHub": "https://github.com/raptorf1/PaperRockScissors",
+        "URL": "https://gt-paper-rock-scissors.netlify.com/",
+        "languages": "JavaScript, Gherkin, HTML"
     }
 ]
