@@ -49,9 +49,27 @@
         "id": 6,
         "name": "Paper Rock Scissors Game",
         "image": "./src/data/paperRockScissors.gif",
-        "description": "Another famous game. Simple & lightweight design. Provides score tracking and stats.",
+        "description": "Another famous game. Simple & lightweight design. Player VS computer and player VS player modes. Please view the README file for information about the styling.",
         "GitHub": "https://github.com/raptorf1/PaperRockScissors",
-        "URL": "https://gt-paper-rock-scissors.netlify.com/",
+        "URL": "https://raptorf1.github.io/PaperRockScissors/",
         "languages": "JavaScript, Gherkin, HTML"
+    },
+    {
+      "id": 7,
+      "name": "My First Rails App",
+      "image": "./src/data/blog.gif",
+      "description": "A simple blog build on Rails. Ability to comment on published articles. CRUD functionality. User and admin authentication.",
+      "GitHub": "https://github.com/raptorf1/rails_demo_george",
+      "URL": "https://george-april-2019.herokuapp.com",
+      "languages": "Ruby, HTML, JavaScript, Gherkin, CSS"
+    },
+    {
+      "id": 8,
+      "name": "Cat-BnB",
+      "image": "./src/data/cat.gif",
+      "description": "Getting your cat the attention it deserves! An AirBNB for cats. Pair programmed with all my fellow students. 75% test coverage. Used Semaphore for CI.",
+      "GitHub": "https://github.com/raptorf1/cat-bnb",
+      "URL": "https://kattbnb.herokuapp.com/",
+      "languages": "Ruby, HTML, JavaScript, Gherkin, CSS"
     }
 ]
