@@ -3,7 +3,7 @@
         "id": 1,
         "name": "My First Website",
         "image": "./src/data/firstWebsite.gif",
-        "description": "My first attempt to create a simple static website. Check your BMI and learn how your idle computer power can help scientific research.",
+        "description": "My first attempt to create a static website. Check your BMI, get paid in Bitcoin & FoldingCoin and learn how you can easily help scientific research.",
         "GitHub": "https://github.com/raptorf1/raptorf1.github.io",
         "URL": "https://raptorf1.github.io/",
         "languages": "HTML, JavaScript, CSS, Ruby"
