@@ -87,6 +87,15 @@
     "description": "News for everyone, by anyone, from everywhere! A peer-to-peer review online newspaper. Pair programmed with all my fellow students.",
     "GitHub": "https://github.com/raptorf1/Glocal_news-Client",
     "URL": "https://glocal-news.netlify.com/",
-    "languages": "JavaScript, Ruby, HTML"
+    "languages": "JavaScript, Ruby, HTML, CSS"
+  },
+  {
+    "id": 11,
+    "name": "Being Stockholm",
+    "image": "./src/data/stockholm.jpg",
+    "description": "A project ordered by an actual client. Where do Stockholmers work and play? Check the map to find out! Pair programmed with all my fellow students.",
+    "GitHub": "https://github.com/raptorf1/being_stockholm-client",
+    "URL": "https://being-stockholm.netlify.com/",
+    "languages": "JavaScript, Ruby, HTML, CSS"
   }
 ]
