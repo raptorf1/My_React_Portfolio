@@ -18,7 +18,7 @@ const Hello = () => {
                     <ul>
                         <li className="content-lists">Passionate about customer service and ways to deliver it as quickly and smoothly as possible.</li>
                         <li className="content-lists">Computer literate and adaptable to any new tech challenge that comes in my way.</li>
-                        <li className="content-lists">Hoping to become a junior web developer.</li>
+                        <li className="content-lists">Junior web developer.</li>
                         <li className="content-lists">Efficient team leader and coach.</li>
                         <li className="content-lists">Fascinated by the developments around cryptocurrency.</li>
                         <li className="content-lists">Absolutely in love with traveling, meeting people and exploring places.</li>
