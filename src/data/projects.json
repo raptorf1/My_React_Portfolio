@@ -97,5 +97,14 @@
     "GitHub": "https://github.com/raptorf1/being_stockholm-client",
     "URL": "https://being-stockholm.netlify.com/",
     "languages": "JavaScript, Ruby, HTML, CSS"
+  },
+  {
+    "id": 12,
+    "name": "KattBNB",
+    "image": "./src/data/cat.gif",
+    "description": "From a study project to a company that could service thousands of cat owners in Sweden? That's the goal for Zane and me. Check the README for more!",
+    "GitHub": "https://github.com/zanenkn/KattBNB_client",
+    "URL": "https://kattbnb.netlify.com/",
+    "languages": "JavaScript, Ruby, HTML, CSS"
   }
 ]

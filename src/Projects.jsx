@@ -44,7 +44,7 @@ class Projects extends Component {
                     <h1 className="text-center">My Projects</h1>
                     <br></br>
                     <br></br>
-                    <p>These are some of the projects I have worked on, during my 3 months at <a href="https://craftacademy.se/english/" target="_blank">Craft Academy</a>.</p>
+                    <p>These are some of the projects I have worked on, during my 3 months at <a href="https://craftacademy.se/english/" target="_blank">Craft Academy</a> and after.</p>
                     <br></br>
                     <p>The code base of all the projects shown below, can be found in my GitHub account with a click on the <i><b>GitHub Details</b></i> button.</p>
                     <br></br>
