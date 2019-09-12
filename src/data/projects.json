@@ -106,5 +106,14 @@
     "GitHub": "https://github.com/zanenkn/KattBNB_client",
     "URL": "https://kattbnb.netlify.com/",
     "languages": "JavaScript, Ruby, HTML, CSS"
+  },
+  {
+    "id": 13,
+    "name": "Cosmos Taxi Way",
+    "image": "./src/data/taxi.jpeg",
+    "description": "A webiste for a taxi company in Brussels, Belgium. All they wanted was a simple online presence. Fantastic service if you ever travel to Brussels.",
+    "GitHub": "https://github.com/raptorf1",
+    "URL": "http://www.cosmostaxiway.com",
+    "languages": "Wix website builder"
   }
 ]
