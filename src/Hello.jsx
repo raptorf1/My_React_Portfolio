@@ -12,7 +12,7 @@ const Hello = () => {
           <h1 className="content-text text-center">About Me</h1>
           <br></br>
           <br></br>
-          <h3 className="content-text leading-normal">Welcome to my portfolio page! My name is George and I created this page while styding to become a junior web developer. From the menu, you can visit my LinkedIn profile and connect with me, open my CV or view the projects that I was involved with during my studies. You can send me a message by filling out the <b><i>Contact Me</i></b> form. Below you can find a few information about me.</h3>
+          <h3 className="content-text leading-normal">Welcome to my portfolio page! My name is George and I created this page while styding to become a junior web developer. From the menu, you can visit my LinkedIn profile and connect with me, open my CV or view the projects that I was involved with during my studies and after. You can send me a message by filling out the <b><i>Contact Me</i></b> form. Below you can find a few information about me.</h3>
           <br></br>
           <br></br>
           <ul>
