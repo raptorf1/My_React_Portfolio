@@ -102,8 +102,8 @@
     "id": 12,
     "name": "KattBNB",
     "image": "./src/data/cat.gif",
-    "description": "From a study project to a company that could service thousands of cat owners in Sweden? That's the goal for Zane and me. Check the README for more!",
-    "GitHub": "https://github.com/zanenkn/KattBNB_client",
+    "description": "From a study project to a company that could service thousands of cat owners in Sweden? That's the goal for Zane and me. Private GitHub repo. Contact me for more!",
+    "GitHub": "",
     "URL": "https://kattbnb.netlify.com/",
     "languages": "JavaScript, Ruby, HTML, CSS"
   },
