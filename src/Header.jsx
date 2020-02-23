@@ -16,7 +16,7 @@ const Header = () => {
 
       <ul className="header-ul">
         <li className="mr-6"><a href="https://tinyurl.com/ya6vlvw8" target="_blank" className="header-links hover:text-red">LinkedIn Profile</a></li>
-        <li className="mr-6"><a href="https://1drv.ms/b/s!AhEE9IqHxlSF5VKfqS6zhP6leWRr?e=XJLRoT" target="_blank" className="header-links hover:text-red">CV</a></li>
+        <li className="mr-6"><a href="https://1drv.ms/b/s!AhEE9IqHxlSF5VVA9tn8YtHVM09N?e=plhw13" target="_blank" className="header-links hover:text-red">CV</a></li>
         <li className="mr-6"><NavLink className="header-links hover:text-grey" activeStyle={{ fontWeight: "bold" }} to="/projects">Projects (13)</NavLink></li>
         <li className="mr-6"><NavLink className="header-links hover:text-grey" activeStyle={{ fontWeight: "bold" }} to="/contact">Contact Me</NavLink></li>
         <li className="mr-6"><button className="text-red-dark font-semibold" onClick={scrollToTop}>Top Of Page</button></li>
